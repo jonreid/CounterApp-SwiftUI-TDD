@@ -27,6 +27,7 @@
 		0F46B0FA2D7D2DCF001E870F /* Counter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Counter.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0F46B10A2D7D2DCF001E870F /* CounterTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CounterTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0F46B1142D7D2DCF001E870F /* CounterUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CounterUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		0F6048CB2D7D33D9006CC846 /* Counter.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; path = Counter.xctestplan; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -75,6 +76,7 @@
 		0F46B0F12D7D2DCE001E870F = {
 			isa = PBXGroup;
 			children = (
+				0F6048CB2D7D33D9006CC846 /* Counter.xctestplan */,
 				0F46B0FC2D7D2DCF001E870F /* Counter */,
 				0F46B10D2D7D2DCF001E870F /* CounterTests */,
 				0F46B1172D7D2DCF001E870F /* CounterUITests */,
